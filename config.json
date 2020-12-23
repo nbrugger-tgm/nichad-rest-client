@@ -1,0 +1,5 @@
+{
+	"disallowAdditionalPropertiesIfNotPresent": false,
+	"npmName": "nichad-client",
+	"supportsES6": true
+}
